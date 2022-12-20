@@ -1,0 +1,7 @@
+.products-title {
+  justify-content: center;
+}
+.col {
+  margin: 10px;
+  cursor: pointer;
+}
